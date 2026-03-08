@@ -7,4 +7,3 @@ webtunnel [2001:db8:a0a3:3921:d668:34a7:5a6a:90f]:443 DAEFF07E181A420069F9944C12
 webtunnel [2001:db8:c525:22a6:6b6a:e916:9ef7:8152]:443 8A1EE5824071CA39E7D76BD579FB2AEF2B52E524 url=https://c.img-cdn.net/yE4s7KehTFyj/ ver=0.0.2
 webtunnel [2001:db8:c934:3cba:7cd2:7e56:c8c9:40a6]:443 412F21AAD09FA4F83AD52186458466BEC5D27795 url=https://cdn-45.triplebit.dev/yaux5diphu8Meiqu ver=0.0.2
 webtunnel [2001:db8:cc53:9d8f:41f4:ebdc:ef7d:adc1]:443 5AA94C138A5B9CCDB96EA0C7D6C587AF18230158 url=https://cdn.seo-manager.info/jXh2ONiCuMLsUyzJWq3HJaeE ver=0.0.3
-webtunnel [2001:db8:e4ee:c51d:301:d1cf:e226:ce45]:443 C6B7889B357D1844CAB655DC80DDD6789CF781B2 url=https://transtunl.ekiprahati.shop/9O8pNLccfQZQsZaXdJvqRvuz ver=0.0.3
