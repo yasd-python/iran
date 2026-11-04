@@ -1,5 +1,3 @@
-webtunnel [2001:db8:2777:f8e4:5dac:f4e3:96c5:c311]:443 DF343521735ABE129910A998817B3A93AA2390FE url=https://test.coellen.xyz ver=0.0.5
-webtunnel [2001:db8:4fe2:49d2:2b7d:8576:5ede:e177]:443 C9AB6F207432161589F1B994F44FFE28FBF211E2 url=https://www.jarlaxle.de/wzZhcKoNURYF5JUssKhC25Cg ver=0.0.7
 webtunnel [2001:db8:78c0:7736:3c2c:420f:5b90:24a1]:443 6376573513627076B864E0D46F8F56250B72CE00 url=https://cats.kittyandcorgi.org/Q1xxtYW0JKZgNDbRfwQTpG4M ver=0.0.6
 webtunnel [2001:db8:cc50:fa:264f:d1b8:79a:6a81]:443 38C7ADB125A7AEA7A668C5AE300F6DCEA6BFB340 url=https://surf.mysticboarding.cz/S2vNtMmDc72E3uSmAroQaUyj ver=0.0.6
 webtunnel [2001:db8:cc53:9d8f:41f4:ebdc:ef7d:adc1]:443 5AA94C138A5B9CCDB96EA0C7D6C587AF18230158 url=https://cdn.seo-manager.info/jXh2ONiCuMLsUyzJWq3HJaeE ver=0.0.3
