@@ -1,5 +1,3 @@
-webtunnel 127.0.0.1:15000 D74CBD2AD903BD9502A6DAA6DCEC0C5A710AD686 url=https://tunnel.sandale.saarland/3981cf037e2f8fefec8a9ef06e440ef9
-webtunnel [2001:db8:2ae3:679a:856c:c72a:2746:1a1b]:443 8943BF53C9561C75A7302ED59575EF71E2B26562 url=https://allium.heelsn.eu/X1uzc7J4omPPBbqkJMDgBtXP ver=0.0.7
 webtunnel [2001:db8:2af5:ccd2:12b:120d:762b:9ed4]:443 83E8597A5AEBF1EB36BCEC9C986DC53D6ED2A3B3 url=https://men-touching.men/ibId6XJSQgAhhO9elAKOE1pS ver=0.0.7
 webtunnel [2001:db8:5985:711a:a60e:61a0:1260:b42e]:443 58DA67BD879E9239FCD4A590E25118BB2118CB3C url=https://fdmf.ch/QCjqMFJumKjWgB7BFaOc04dN ver=0.0.7
 webtunnel [2001:db8:747d:f959:7714:e5ea:b6d8:66e7]:443 CF1827C41B504EB3CCF3D4EDE7D8D88761F2039E url=https://sp-sk.bitcdn.ovh/standbakhdown ver=0.0.4
