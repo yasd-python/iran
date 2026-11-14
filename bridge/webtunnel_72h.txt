@@ -3,4 +3,3 @@ webtunnel [2001:db8:478b:ae89:51bf:9af7:3576:b7b7]:443 76A48CD150165E281E8067626
 webtunnel [2001:db8:80f:be74:6afc:2b7b:e1ca:1daf]:443 3FBF86ADCC8D39D30B3BE340FB0D87F64E64E7EE url=https://hongkong.dagestani.eu/thismustallbefakenews ver=0.0.4
 webtunnel [2001:db8:a379:1522:ea89:9c9d:59c8:1d5a]:443 B55A418B4F30181ED304EB2698EE58D283BEE5BF url=https://mirror.sanin.dev/f6VK8vgUKiq3HX6FHdbQpUaa ver=0.0.5
 webtunnel [2001:db8:ad13:e588:6629:afd2:cc58:6af5]:443 B51FD3150E208A600D00BCA5963B0EF5C867574F url=https://rot.ronaak.eu:443/iUFRXvAp3E3MHDiJ8453BaaM ver=0.0.2
-webtunnel [2001:db8:c148:803:abb6:673d:91e6:4961]:443 380E64D54178F6C91DDF487357E8114E16F2EDD8 url=https://uganda-hikes.com/bbe8ed2be2f9da8e1b4041615da56fb2 ver=0.0.5
