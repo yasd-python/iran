@@ -16,6 +16,7 @@ webtunnel [2001:db8:2638:b1a0:f262:490b:f15c:6798]:443 FFBAE1B459A6CB5C6751F9BE7
 webtunnel [2001:db8:28ff:ae4f:c:9ef6:1722:ac46]:443 1098B4E153AB1666B4F63F48325A103FB005940F url=https://pod04.oneclickhost.eu/FeTyRXzPPAzwIjuxzWxwl09N ver=0.0.3
 webtunnel [2001:db8:28ff:ae4f:c:9ef6:1722:ac46]:443 1098B4E153AB1666B4F63F48325A103FB005940F url=https://pod04.oneclickhost.eu/FeTyRXzPPAzwIjuxzWxwl09N ver=0.0.4
 webtunnel [2001:db8:28ff:ae4f:c:9ef6:1722:ac46]:443 1098B4E153AB1666B4F63F48325A103FB005940F url=https://pod04.oneclickhost.eu/FeTyRXzPPAzwIjuxzWxwl09N ver=0.0.5
+webtunnel [2001:db8:28ff:ae4f:c:9ef6:1722:ac46]:443 1098B4E153AB1666B4F63F48325A103FB005940F url=https://pod04.oneclickhost.eu/FeTyRXzPPAzwIjuxzWxwl09N ver=0.0.7
 webtunnel [2001:db8:2ae3:679a:856c:c72a:2746:1a1b]:443 8943BF53C9561C75A7302ED59575EF71E2B26562 url=https://allium.heelsn.eu/X1uzc7J4omPPBbqkJMDgBtXP ver=0.0.3
 webtunnel [2001:db8:2ae3:679a:856c:c72a:2746:1a1b]:443 8943BF53C9561C75A7302ED59575EF71E2B26562 url=https://allium.heelsn.eu/X1uzc7J4omPPBbqkJMDgBtXP ver=0.0.4
 webtunnel [2001:db8:2ae3:679a:856c:c72a:2746:1a1b]:443 8943BF53C9561C75A7302ED59575EF71E2B26562 url=https://allium.heelsn.eu/X1uzc7J4omPPBbqkJMDgBtXP ver=0.0.6
